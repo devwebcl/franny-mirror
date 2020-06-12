@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ## 2020-06-12
 ### Added
-- original version from: [https://sourceforge.net/projects/atari8/files/franny/](https://sourceforge.net/projects/atari8/files/franny/)
+- original version 1.1.3 from: [https://sourceforge.net/projects/atari8/files/franny/](https://sourceforge.net/projects/atari8/files/franny/)
 
 ### Changed
 - 
